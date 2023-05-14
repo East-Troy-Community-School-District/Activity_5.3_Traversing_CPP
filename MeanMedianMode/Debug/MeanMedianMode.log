@@ -1,0 +1,5 @@
+﻿  MeanMedianMode.cpp
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianMode\MeanMedianMode.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianMode\MeanMedianMode.cpp(37,44): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+\\et-fileserver\staff\pawnol\Desktop\MeanMedianMode\MeanMedianMode.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+  MeanMedianMode.vcxproj -> \\et-fileserver\staff\pawnol\Desktop\MeanMedianMode\Debug\MeanMedianMode.exe
